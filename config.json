@@ -25,7 +25,7 @@
             "host": "turtlecoin.herominers.com",
             "niceHash": false,
             "password": "coda",
-            "port": 10381,
+            "port": 10380,
             "priority": 0,
             "rigID": "",
             "ssl": false,
