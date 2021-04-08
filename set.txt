@@ -1,5 +1,6 @@
 ca.turtlecoin.herominers.com:10380
 TRTLv2nLcf52K988Qnwhno36XNZwyhcRhN38mze9itNEf6BCTWDGebHGBnoW8RzkzLXryvgHSJdMbSEVUZnS7AuGhtxwea7vsX7
 docker
+2
 N
 N
